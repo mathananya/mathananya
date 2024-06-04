@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [the bloodBASE (a blood bank management system)](https://github.com/mathananya/bloodBASE)
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning MySQL
 
-- 👯 I’m looking to collaborate on **a cool interesting project**
+- 👯 I’m looking to collaborate on any cool interesting project
 
 - 👨‍💻 All of my projects are available at [https://github.com/mathananya](https://github.com/mathananya)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ananya-mk/](https://www.linkedin.com/in/ananya-mk/)
 
-- ⚡ Fun fact **I like combinatorics and hold a distaste for geometry**
+- ⚡ Fun fact: I like combinatorics and hold a distaste for geometry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
