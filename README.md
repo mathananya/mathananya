@@ -9,9 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mathananya](https://github.com/mathananya)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ananya-mk/](https://www.linkedin.com/in/ananya-mk/)
-
-- ⚡ Fun fact: I like combinatorics and hold a distaste for geometry
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
