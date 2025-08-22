@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ananya</h1>
 <h3 align="center">a person who likes coding solutions to interesting to problems and other random things</h3>
 
-- 🔭 Currently working on [the bloodBASE (a blood bank management system)](https://github.com/mathananya/bloodBASE) <i>[UPDATE: now finished]</i>
+- 🔭 Currently working on [the bloodBASE (a blood bank management system)](https://github.com/mathananya/bloodBASE) <i>[UPDATE: now complete]</i>
 
-- 🌱 I’m currently learning supervised machine learning algorithms
+- 🌱 Currently learning supervised machine learning algorithms
 
 - 👯 I’m looking to collaborate on any cool interesting project
 
